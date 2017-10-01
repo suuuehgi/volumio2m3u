@@ -1,5 +1,5 @@
 # volumio2m3u
-Generate [ext-m3u](https://en.wikipedia.org/wiki/M3U#Extended_M3U) files from Volumio playlist format.
+Generate [ext-m3u](https://en.wikipedia.org/wiki/M3U#Extended_M3U) files from [Volumio](https://volumio.org/) playlist format.
 
 # Version
 0.1
